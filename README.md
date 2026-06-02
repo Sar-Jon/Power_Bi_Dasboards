@@ -14,4 +14,14 @@ Explore the dashboards below. Each project includes its own README file with det
 
 [ **View Full Project 1 Details (README)**](/Data_Jobs_V1/README.md)
 
+## Data Jobs Dashboard 2.0 (V2- Single-Page Focus)
+
+![Data Jobs DashBoard 2.0](/Images/Data_Jobs_Dashboard_2.0_P1.png)
+
+[ **View Full Project 2 Details (README)**](/Data_Jobs_V2/README.md)
+
+## About This Portfolio
+
+Each dashboard featured in this portfolio includes its own detailed README file within the project folder. These provide additional information about the project goals, datasets used, Power BI techniques applied, and the overall dashboard development process.
+
 
